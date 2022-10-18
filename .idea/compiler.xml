@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Full-Reto5-Ciclo3-master" />
+        <module name="retos" />
         <module name="Reto3" />
         <module name="Ciclo3-master" />
       </profile>
@@ -21,6 +22,7 @@
       <module name="Full-Reto5-Ciclo3-master" options="-parameters" />
       <module name="Reto3" options="-parameters" />
       <module name="Reto3_C3" options="" />
+      <module name="retos" options="-parameters" />
     </option>
   </component>
 </project>
